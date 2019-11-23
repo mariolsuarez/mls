@@ -1,5 +1,5 @@
 ---
-layout: hello-default
+layout: M/S-default
 
 # using Markdown language, you can customize the following variables!
 
