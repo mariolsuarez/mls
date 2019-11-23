@@ -5,7 +5,7 @@ layout: hello-default
 
 # these variables are required -------------------------------
 banner_title: Mario Suarez
-banner_subtitle: My life and professional work: an NJIT project
+banner_subtitle: My life and professional work - an NJIT project
 background_image: /images/background.jpeg
 
 # all of the following variables are optional -----------------
