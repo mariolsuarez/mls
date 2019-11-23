@@ -4,8 +4,8 @@ layout: hello-default
 # using Markdown language, you can customize the following variables!
 
 # these variables are required -------------------------------
-banner_title: hello for github pages
-banner_subtitle: a minimalist template for personal websites
+# MARIO SUAREZ
+## All about my life and my professional work
 background_image: /images/background.jpeg
 
 # all of the following variables are optional -----------------
@@ -42,9 +42,9 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### why **hello**?  
+### **About** 
 
-### **hello** has a simple goal: to make GitHub Pages accessible to everyone.  
+### **Veteran** and **NJIT** information technology student.  
   
 **hello** is a minimalist template that lets you design a beautiful website or portfolio on GitHub Pages - without installing a Ruby
 development environment, learning to use Jekyll, **or even typing a single line of code**. It's ideal for GitHubbers
